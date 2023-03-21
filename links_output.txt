@@ -1,0 +1,104 @@
+                                [Reader]
+                        label = egygold.cxV2_1
+                     protocol = cccam_mcs
+                       device = m1.egygold.cx , 17100
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_2
+                     protocol = cccam_mcs
+                       device = m2.egygold.cx , 17200
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_3
+                     protocol = cccam_mcs
+                       device = m3.egygold.cx , 17300
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_4
+                     protocol = cccam_mcs
+                       device = m4.egygold.cx , 17400
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_5
+                     protocol = cccam_mcs
+                       device = m5.egygold.cx , 17500
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_6
+                     protocol = cccam_mcs
+                       device = m6.egygold.cx , 17600
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_7
+                     protocol = cccam_mcs
+                       device = m7.egygold.cx , 17700
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
+                                [Reader]
+                        label = egygold.cxV2_8
+                     protocol = cccam_mcs
+                       device = m8.egygold.cx , 17800
+                         user = rspr16tf
+                     password = 70vgelg2
+            inactivitytimeout = 30
+                     fallback = 1
+                        group = 6
+                   cccversion = 2.0.11
+                 ccckeepalive = 1
+
+
