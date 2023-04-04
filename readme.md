@@ -11,6 +11,9 @@
 
 Simple oscam reader generator, which converting Clines to oscam readers.
 Console app change input data to code for oscam app, included reader constant configuration - defined in code.
+You have to paste Cline according to template *one for a line*:
+
+		C: HOST PORT USER PWD
 
 ### TECHNOLOGIES
 
